@@ -9,3 +9,7 @@ Code scripts are present by two notebooks:
 * "[*B. Generating additional figures [python, bash, latex].ipynb*](https://nbviewer.jupyter.org/github/aakhmetz/EbolaForecast2019Epidemics/blob/master/scripts/B.%20Generating%20additional%20figures%20%5Bpython%2C%20bash%2C%20latex%5D.ipynb)" finalizes the analysis.
 
 The folder **figures** shows all figures used in the paper, **results** is the list of all output files from executing the notebooks. **Data**-folder contains all aggregated datasets, where the file "data-WHO.xlsx" was mainly used for the analysis. The subfolder **data/Epicurves** shows the snapshots epicurves routingly extracted from different publicly available sources.
+
+---
+
+Written by Andrei R. Akhmetzhanov 2019
